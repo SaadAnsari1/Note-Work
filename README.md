@@ -73,10 +73,10 @@
 
 #### WINDOWS 11 ISO FILE   :-
 
- - Open This Site "https://www.microsoft.com/software-download/windows11"
- - Download Windows11 Disk File (ISO) - muilti-edition iso
- - Select Language - English
- - Click Download Windows11 64-bit
+    - Open This Site "https://www.microsoft.com/software-download/windows11"
+    - Download Windows11 Disk File (ISO) - muilti-edition iso
+    - Select Language - English
+    - Click Download Windows11 64-bit
 
 
 ## ISO LINKS   :-
