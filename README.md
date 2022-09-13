@@ -96,7 +96,7 @@
  #### Linux
     - KALI LINUX    - "https://www.kali.org/get-kali/"
     - Parrot OS     - "https://www.parrotsec.org/download/?version=home"
-    - Ubuntu        -
+    - Ubuntu        - "https://ubuntu.com/download/desktop"
  
  #### MAC OS  :-
  
