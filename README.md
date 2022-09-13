@@ -98,10 +98,10 @@
 
 ### SET PASSWORD CHROME   :-
 
- - Open chrome
- - Go to chrome web store
- - Extension Search "set password chrome"
- - Add extension and set password   
+   - Open chrome
+   - Go to chrome web store
+   - Extension Search "set password chrome"
+   - Add extension and set password   
 
 
 ### BLOCK WEBSITE  :-
