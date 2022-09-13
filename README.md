@@ -1,9 +1,16 @@
 ### GITHUB :-
  https://github.com/SaadAnsari1/Note-Work.git
+> make by `saad ansari `
+
 
 ✅ -[ YES ] - install it's 
 ❎ -[ YES/NO ] - don't try 
 ❌ -[ NO ] - no knowledge 
+
+
+------------
+
+
 
 
 ### OPRATING SYSTEM :-
@@ -18,57 +25,57 @@
  #### MAC OS  -[ ❌ ]
 
 
-### DRIVERS LIST  :- [ ❎ ]
+#### DRIVERS LIST  :- [ ❎ ]
 
- - SOUND Driver
- - GRAPHIC Driver 
- - WIFI Driver 
- - Bluetooth Driver 
+    - SOUND Driver
+    - GRAPHIC Driver 
+    - WIFI Driver 
+    - Bluetooth Driver 
 
 
-### SOFTWARE LIST  :- [ ✅ ]
+#### SOFTWARE LIST  :- [ ✅ ]
 
- - Ms office 
- - Crome
- - Adobe Scanner
- - Adobe Photoshop
- - Adobe Page Maker 
- - Adobe Premiere Pro
- - Adobe XD
+    - Ms office 
+     - Crome
+     - Adobe Scanner
+     - Adobe Photoshop
+     - Adobe Page Maker 
+    - Adobe Premiere Pro
+    - Adobe XD
   
 
 ### PASSWORD CHANGE WINDOWS   :-
 
- - Open Settings
- - Search "Change Your Password"
- - Select Windows Pin "Change"
- - Enter Current Password
- - Enter New Password - Press "Enter"
+    - Open Settings
+    - Search "Change Your Password"
+    - Select Windows Pin "Change"
+    - Enter Current Password
+    - Enter New Password - Press "Enter"
  
 
 ### SPEED UP YOUR PC  :-
 
- - Win + R - tree
- - Win + R - recent - Delete 
- - Win + R - temp - Delete
- - Win + R - %temp% - Delete
- - Win + R - %appdata% - Delete 
- - Win + R - prefetch - Delete 
- - Control Panel - Program - Uninstall non use software
- - This Pc - C drive Open Properties - Disk Clean-up - Clean-up System Files
- - Ctrl + Shift + Esc - Task Manager - Navigate Start-up - non use software disable
- - Serach - Defragment and Optimize Privés - Optimize All Drives - Clean-up Recycla Bin
+    - Win + R - tree
+    - Win + R - recent - Delete 
+    - Win + R - temp - Delete
+    - Win + R - %temp% - Delete
+    - Win + R - %appdata% - Delete 
+    - Win + R - prefetch - Delete 
+    - Control Panel - Program - Uninstall non use software
+    - This Pc - C drive Open Properties - Disk Clean-up - Clean-up System Files
+    - Ctrl + Shift + Esc - Task Manager - Navigate Start-up - non use software disable
+    - Serach - Defragment and Optimize Privés - Optimize All Drives - Clean-up Recycla Bin
 
    
-### DRIVE SIZE MANAGEMENT  :-
+#### DRIVE SIZE MANAGEMENT  :-
 
- - This Pc Open manage 
- - Disk management
- - Drive choose
- - Shrink Volume
- - Write Size On MB - Shink
- - Install minitool partition wizard
- - Open Software - Choose Drive - Select partition and Apply
+    - This Pc Open manage 
+    - Disk management
+    - Drive choose
+    - Shrink Volume
+    - Write Size On MB - Shink
+    - Install minitool partition wizard
+    - Open Software - Choose Drive - Select partition and Apply
 
 
 #### WINDOWS 11 ISO FILE   :-
@@ -96,20 +103,23 @@
  #### Chrome OS  :- 
  
 
-### SET PASSWORD CHROME   :-
+#### SET PASSWORD CHROME   :-
 
-   - Open chrome
-   - Go to chrome web store
-   - Extension Search "set password chrome"
-   - Add extension and set password   
+    - Open chrome
+    - Go to chrome web store
+    - Extension Search "set password chrome"
+    - Add extension and set password   
 
 
-### BLOCK WEBSITE  :-
+#### BLOCK WEBSITE  :-
 
- - This >> C >> Windows >> System >> drivers >> etc >> hosts
- - Copy "hosts" file >> Paste Desktop
- - Rename "hosts" file 
- - Open notepad type "127.0.0.1 www.websiteName.com"
- - Rename file - "hosts"
- - Replies - "etc/hosts" file
+    - This >> C >> Windows >> System >> drivers >> etc >> hosts
+    - Copy "hosts" file >> Paste Desktop
+    - Rename "hosts" file 
+    - Open notepad type "127.0.0.1 www.websiteName.com"
+    - Rename file - "hosts"
+    - Replies - "etc/hosts" file
+
+
+
 
